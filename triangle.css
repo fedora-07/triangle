@@ -1,0 +1,11 @@
+body {
+    background-color: lemonchiffon;
+}
+#triangle {
+    height: 0;
+    width: 0;
+    border: 45px solid transparent;
+    border-top: 0;
+    border-bottom: 100px solid black;
+    transform: rotate(90deg);
+}
